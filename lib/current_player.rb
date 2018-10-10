@@ -10,4 +10,5 @@ def turn_count(board)
     return "X"
   else
     return "O"
+  end
 end
